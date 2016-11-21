@@ -8,3 +8,4 @@ EXPOSE 8080
 RUN mkdir /data
 WORKDIR jetty-helloworld-example
 ENTRYPOINT java -jar runner.jar app.war
+#elgordooo
